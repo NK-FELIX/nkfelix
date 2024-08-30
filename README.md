@@ -1,6 +1,7 @@
 # Data Analytics | Data Science
 
-Welcome to my GitHub repository! I'm a data analyst with a passion for turning raw data into actionable insights that drive strategic decision-making. With a strong foundation in **Advanced Excel, SQL, Tableau, Power BI, and Python**, I specialize in **data analysis, data visualization, and business intelligence**. My work is centered around delivering high-quality, data-driven solutions that help businesses optimize operations and achieve their goals.
+Hello and Welcome!
+I'm a data analyst with a passion for turning raw data into actionable insights that drive strategic decision-making. With a strong foundation in **Advanced Excel, SQL, Tableau, Power BI, and Python**, I specialize in **data analysis, data visualization, and business intelligence**. My work is centered around delivering high-quality, data-driven solutions that help businesses optimize operations and achieve their goals.
 
 ---
 
@@ -61,29 +62,6 @@ I'm a data analyst with extensive experience in using data to solve complex prob
    - **Tools Used:** Python (Pandas, Matplotlib, Seaborn), SQL
    - **Key Skills:** Data analysis, statistical analysis, HR analytics
    - **Outcome:** Provided the HR team with actionable insights that helped reduce attrition rates by addressing key issues identified in the analysis.
-
----
-
-## How to Use This Repository
-
-This repository contains all the code, datasets, and documentation related to the projects listed above. Each project has its own folder with a detailed README file that explains the project's objectives, methodology, and results.
-
-### Structure:
-- **/Projects**
-  - **/Project_Name_1**
-    - Code
-    - Data
-    - README.md
-  - **/Project_Name_2**
-    - Code
-    - Data
-    - README.md
-  - (Continue for each project)
-
-### Instructions:
-1. **Clone the Repository:** Use `git clone https://github.com/yourusername/yourrepositoryname.git` to clone the repository to your local machine.
-2. **Navigate to the Project Folder:** Go to the specific project folder you are interested in.
-3. **Follow the README:** Each project folder contains a README file with step-by-step instructions on how to run the code and explore the results.
 
 ---
 
