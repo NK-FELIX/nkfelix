@@ -72,7 +72,6 @@ I'm always open to new opportunities and collaborations. Whether you're looking 
 
 - **LinkedIn:** (www.linkedin.com/in/nk-felix)
 - **Twitter:** (https://x.com/nkanalytics)
-- **Email:** lax2206x@gmail.com
 
 ---
 
