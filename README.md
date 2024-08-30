@@ -17,6 +17,25 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 
 ---
 
+## Education
+
+**Bachelor of Science in Statistics**  
+
+### Relevant Coursework:
+- **Probability & Statistics**: In-depth study of statistical theory and its practical applications.
+- **Data Analysis & Interpretation**: Techniques for analyzing complex data sets.
+- **Linear Models**: Understanding of linear regression and its uses in data modeling.
+- **Time Series Analysis**: Forecasting and analyzing temporal data.
+- **Statistical Software**: Practical experience with statistical software tools.
+
+### Technical Skills:
+- **Data Analytics Languages**: Python, R
+- **Data Visualization Tools**: Tableau, Power BI
+- **Database Management**: SQL, Advanced Excel
+- **Machine Learning**: Experience with supervised and unsupervised learning techniques.
+
+---
+
 ## Featured Projects
 
 ### 1. Financial Modeling and Forecasting
