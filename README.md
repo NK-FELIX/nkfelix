@@ -1,6 +1,7 @@
 # Data Analytics | Data Science
 
 Hello and Welcome!
+
 I'm a data analyst with a passion for turning raw data into actionable insights that drive strategic decision-making. With a strong foundation in **Advanced Excel, SQL, Tableau, Power BI, and Python**, I specialize in **data analysis, data visualization, and business intelligence**. My work is centered around delivering high-quality, data-driven solutions that help businesses optimize operations and achieve their goals.
 
 ---
