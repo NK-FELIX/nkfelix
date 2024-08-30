@@ -19,31 +19,31 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 
 ## Featured Projects
 
-### 1. ** Financial Modeling and Forecasting**
+### 1. Financial Modeling and Forecasting
    - **Overview:** This project involves building a financial model to forecast revenue and expenses for a mid-sized company over a five-year period. The model integrates historical data, market trends, and business assumptions to provide a comprehensive financial outlook.
    - **Tools Used:** Excel, Python (Pandas, NumPy), SQL
    - **Key Skills:** Financial modeling, forecasting, data analysis, business intelligence
    - **Outcome:** Provided actionable insights that informed the company's strategic planning and budgeting process.
 
-### 2. ** Customer Segmentation Analysis**
+### 2. Customer Segmentation Analysis
    - **Overview:** This project focuses on segmenting a company's customer base to tailor marketing strategies and improve customer engagement. Using clustering techniques, the project identifies distinct customer segments based on purchasing behavior.
    - **Tools Used:** SQL, Python (Scikit-learn, Matplotlib), Tableau
    - **Key Skills:** Data analysis, machine learning, data visualization, customer segmentation
    - **Outcome:** Enhanced the company's marketing effectiveness by enabling targeted campaigns, resulting in increased customer retention and sales.
 
-### 3. ** Sales Performance Dashboard**
+### 3. Sales Performance Dashboard
    - **Overview:** Developed a dynamic sales performance dashboard using Power BI to track and visualize key sales metrics in real-time. The dashboard provides insights into sales trends, regional performance, and product profitability.
    - **Tools Used:** Power BI, SQL, Excel
    - **Key Skills:** Business intelligence, data visualization, dashboard design
    - **Outcome:** Improved decision-making capabilities by providing stakeholders with a clear and concise view of sales performance across the organization.
 
-### 4. ** Predictive Maintenance for Manufacturing**
+### 4. Predictive Maintenance for Manufacturing
    - **Overview:** This project aims to predict equipment failures in a manufacturing plant using machine learning techniques. By analyzing sensor data and historical maintenance records, the model identifies potential failures before they occur, reducing downtime and maintenance costs.
    - **Tools Used:** Python (Pandas, Scikit-learn), SQL, Tableau
    - **Key Skills:** Predictive analytics, machine learning, data analysis
    - **Outcome:** Significantly reduced equipment downtime and maintenance costs by enabling proactive maintenance scheduling.
 
-### 5. ** Employee Attrition Analysis**
+### 5. Employee Attrition Analysis
    - **Overview:** Analyzed employee data to identify factors contributing to high attrition rates in a company. The analysis included exploring correlations between various factors such as job satisfaction, salary, and work-life balance, and their impact on employee retention.
    - **Tools Used:** Python (Pandas, Matplotlib, Seaborn), SQL
    - **Key Skills:** Data analysis, statistical analysis, HR analytics
