@@ -28,12 +28,6 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 - **Time Series Analysis**: Forecasting and analyzing temporal data.
 - **Statistical Software**: Practical experience with statistical software tools.
 
-### Technical Skills:
-- **Data Analytics Languages**: Python, R
-- **Data Visualization Tools**: Tableau, Power BI
-- **Database Management**: SQL, Advanced Excel
-- **Machine Learning**: Experience with supervised and unsupervised learning techniques.
-
 ---
 
 ## Featured Projects
