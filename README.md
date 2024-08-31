@@ -17,7 +17,7 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 - **Python for Data Science:** Leveraging Python libraries such as Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
 - **Business Intelligence:** Developing and deploying BI solutions that help businesses make informed decisions.
 
----
+![HD-business-analysis](https://github.com/user-attachments/assets/3dee6c7a-aceb-4bcd-9734-f95bc4d0cd5c)
 
 ## Education
 
@@ -30,7 +30,7 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 - **Time Series Analysis**: Forecasting and analyzing temporal data.
 - **Statistical Software**: Practical experience with statistical software tools.
 
----
+![data-analytics](https://github.com/user-attachments/assets/244459a6-d019-4f3f-8f05-ee9d42cdb687)
 
 ## Featured Projects
 
