@@ -1,4 +1,5 @@
 title: NK FELIX
-description: Data Analytics | Data Science 
-show downloads: true
+logo: /assets/img/nk--analytics-high-resolution-logo
+description: Data Analytics | Data Science
+show_downloads: true
 theme: jekyll-theme-minimal
