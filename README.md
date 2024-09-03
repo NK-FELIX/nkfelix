@@ -17,11 +17,11 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 - **Python for Data Science:** Leveraging Python libraries such as Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
 - **Business Intelligence:** Developing and deploying BI solutions that help businesses make informed decisions.
 
-![1](https://github.com/user-attachments/assets/581718af-87ef-404b-b4fb-25dc5a0cbdc4)
+![data-inform-illustration-concept](https://github.com/user-attachments/assets/a545f44e-21c6-4a4e-9c7d-8718e31b0dd8)
 
 ## Education
 
-**Bachelor of Science in Statistics**  
+Bachelor of Science (Statistics)
 
 ### Relevant Coursework:
 - **Probability & Statistics**: In-depth study of statistical theory and its practical applications.
