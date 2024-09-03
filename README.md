@@ -17,7 +17,7 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 - **Python for Data Science:** Leveraging Python libraries such as Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
 - **Business Intelligence:** Developing and deploying BI solutions that help businesses make informed decisions.
 
-![data-inform-illustration-concept](https://github.com/user-attachments/assets/a545f44e-21c6-4a4e-9c7d-8718e31b0dd8)
+![kisspng-data-analysis-analytics-big-data-clip-art](https://github.com/user-attachments/assets/f28e12ca-a692-4ae7-b1b4-ef3937c5f631)
 
 ## Education
 
@@ -29,8 +29,6 @@ Bachelor of Science (Statistics)
 - **Linear Models**: Understanding of linear regression and its uses in data modeling.
 - **Time Series Analysis**: Forecasting and analyzing temporal data.
 - **Statistical Software**: Practical experience with statistical software tools.
-
-![data-analytics](https://github.com/user-attachments/assets/244459a6-d019-4f3f-8f05-ee9d42cdb687)
 
 ## Featured Projects
 
@@ -64,7 +62,7 @@ Bachelor of Science (Statistics)
    - **Key Skills:** Data analysis, statistical analysis, HR analytics
    - **Outcome:** Provided the HR team with actionable insights that helped reduce attrition rates by addressing key issues identified in the analysis.
 
----
+![data-inform-illustration-concept](https://github.com/user-attachments/assets/43ecffc2-e9dc-48a9-b6b9-af6c7745d854)
 
 ## Let's Connect
 
