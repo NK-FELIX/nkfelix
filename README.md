@@ -4,8 +4,6 @@ Hello and Welcome!
 
 I'm a data analyst with a passion for turning raw data into actionable insights that drive strategic decision-making. With a strong foundation in **Advanced Excel, SQL, Tableau, Power BI, and Python**, I specialize in **data analysis, data visualization, and business intelligence**. My work is centered around delivering high-quality, data-driven solutions that help businesses optimize operations and achieve their goals.
 
----
-
 ## About Me
 
 I'm a data analyst with extensive experience in using data to solve complex problems. My journey in data analytics began with a curiosity for uncovering patterns and insights hidden within datasets. Over the years, I've honed my skills in various tools and techniques, enabling me to work on a wide range of projects, from financial modeling to predictive analytics.
@@ -16,8 +14,6 @@ I'm a data analyst with extensive experience in using data to solve complex prob
 - **SQL Proficiency:** Writing complex queries to manage, manipulate, and extract data from large databases.
 - **Python for Data Science:** Leveraging Python libraries such as Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
 - **Business Intelligence:** Developing and deploying BI solutions that help businesses make informed decisions.
-
-![kisspng-data-analysis-analytics-big-data-clip-art](https://github.com/user-attachments/assets/f28e12ca-a692-4ae7-b1b4-ef3937c5f631)
 
 ## Education
 
@@ -70,8 +66,6 @@ I'm always open to new opportunities and collaborations. Whether you're looking 
 
 - **LinkedIn:** (www.linkedin.com/in/nk-felix)
 - **Twitter:** (https://x.com/nkanalytics)
-
----
 
 Thank you for visiting my GitHub! I hope you find my work insightful and valuable. If you have any questions or feedback, don't hesitate to reach out.
 
